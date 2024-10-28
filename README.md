@@ -28,15 +28,19 @@ Research Acumen: Familiarity with cutting-edge methodologies in anomaly detectio
 ## Methodology
 Backdoor Attack Detection
 Data Preprocessing: Standardized attributes and removed unnecessary columns.
+
 PCA: Reduced dimensionality to capture essential variations in network traffic data.
+
 K-means Clustering: Applied with EM optimization to identify patterns and potential anomalies.
 
 Credit Card Fraud Detection
 Auto-Encoder: Utilized for encoding transaction data into a lower-dimensional latent space.
+
 t-SNE Visualization: Employed for effective visualization of transaction clusters, enabling insights into potential fraudulent activities.
 
 ## Results
 Backdoor Dataset: Visualized K-means clusters in a 2D PCA scatter plot, identifying trends in network traffic anomalies.
+
 Credit Card Dataset: Showcased t-SNE embeddings, revealing clusters indicative of potentially fraudulent transactions.
 
 ## Limitations and Future Work
